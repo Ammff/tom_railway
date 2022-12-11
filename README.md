@@ -131,7 +131,7 @@ How To Deploy 👉
 <details><summary>Deploy To Railway</summary>
 <p>
 <br>
-<a href="https://railway.app?referralCode=PR0FESS0R-99">
+<a href="https://railway.app?referralCode=Ammff">
   <img src="https://railway.app/button.svg" alt="Deploy">
 </a>
 </p>
